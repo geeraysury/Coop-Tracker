@@ -39,3 +39,4 @@
 /Users/onyo/Internship-Tracker/bin/Debug/net10.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
 /Users/onyo/Internship-Tracker/obj/Debug/net10.0/Internship-Tracker.csproj.AssemblyReference.cache
 /Users/onyo/Internship-Tracker/obj/Debug/net10.0/Internsh.A22B8094.Up2Date
+/Users/onyo/Internship-Tracker/obj/Debug/net10.0/Internship-Tracker.sourcelink.json
